@@ -9,6 +9,6 @@ entries:
     name: app-training
     type: application
     urls:
-    - https://raw.githubusercontent.com/fbmatilla/atlax360-training/main/app-training-0.1.0.tgz
+    - https://raw.githubusercontent.com/fbmatilla/atlax360-training/master/app-training-0.1.0.tgz
     version: 0.1.0
 generated: "2022-06-27T11:13:10.8766158+02:00"
