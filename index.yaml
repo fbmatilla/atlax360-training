@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app-training:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-27T11:13:10.8775594+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a709bde730d4e6bec76384451d4502779c0d110af0541ff9b184aa0fe4cbc1d9
+    name: app-training
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/fbmatilla/atlax360-training/main/app-training-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-27T11:13:10.8766158+02:00"
